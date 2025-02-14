@@ -2,7 +2,7 @@
 
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Jeison Hernandez, a Full Stack Developer.
+### I'm Jeison Hernandez, a Full Stack Developer.
 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
